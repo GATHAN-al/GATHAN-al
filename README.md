@@ -100,3 +100,7 @@ I bridge the gap between complex backend logic and intuitive frontend design. My
 <div align="center">
   <p><i>Let's connect and build something amazing!</i></p>
 </div>
+
+<img src="https://raw.githubusercontent.com/GATHAN-al/GATHAN-al/output/snake.svg" alt="Snake animation" />
+
+###
