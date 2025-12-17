@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Muhammad+Gathan+Al+Ghifari;Full+Stack+Web+Developer;Informatics+Engineering+Student" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Muhammad+Gathan+Al+Ghifari;Full+Stack+Web+Developer;AI+%26+Data+Enthusiast;Mobile+App+Developer" alt="Typing Animation" />
   </a>
 </div>
 
@@ -18,51 +18,85 @@
 
 <br />
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-I am a 5th-semester **Computer Science undergraduate at Universitas Tarumanagara** with a strong focus on **Full Stack Web Development**. I possess hands-on experience in designing and deploying scalable web applications using **React.js** and **Laravel PHP**.
+I am a 5th-semester **Informatics Engineering student at Universitas Tarumanagara**, specializing in **Full Stack Development** and **Data Engineering**.
 
-I am passionate about software architecture, database management, and writing clean, efficient code. Currently seeking opportunities to leverage my technical skills in a challenging development environment.
+I bridge the gap between complex backend logic and intuitive frontend design. My recent focus involves leveraging **Python (AI/ML)** to solve data-driven problems and building scalable cross-platform applications using **Flutter** and **Node.js**.
 
-* **Education:** Bachelor in Informatics Engineering, Universitas Tarumanagara (GPA: 3.14/4.00)
-* **Core Competencies:** Full Stack Development, RESTful APIs, Database Design (SQL/NoSQL).
-
----
-
-## 🛠️ Technical Proficiency
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend Development** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
-| **Frontend Development** | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) |
-| **Databases & Tools** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+* 🔭 I’m currently working on: **Deep Learning Models for NLP (IndoBERTa)**
+* 🌱 I’m currently learning: **Docker & Kubernetes**
+* 🎓 Education: **Universitas Tarumanagara (GPA: 3.14/4.00)**
 
 ---
 
-## 📂 Selected Projects
+## 🛠️ Tech Stack & Tools
 
-### 🏦 Banking Management System
-* **Tech Stack:** Laravel PHP, PostgreSQL
-* **Key Achievement:** Engineered a secure backend architecture featuring **ACID-compliant** database transactions and strict server-side validation to ensure financial data integrity and prevent negative balances.
+<div align="center">
 
-### 🏝️ Bali Resort Web Application
-* **Tech Stack:** React.js, Tailwind CSS
-* **Key Achievement:** Developed a high-fidelity Single Page Application (SPA) with a custom client-side booking engine for real-time room availability checks and dynamic pricing.
+### **Languages**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-### 🏨 Hotel Reservation Website
-* **Tech Stack:** AngularJS, MongoDB
-* **Key Achievement:** Implemented a scalable **NoSQL** data storage system for flexible room management and integrated comprehensive CRUD functionalities with user authentication.
+### **Frontend & Mobile**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+### **Backend & Database**
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+### **Data Science & AI**
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 IndoBERTa Sentiment Analysis
+> *Deep Learning · Python · TensorFlow · Transformers*
+* Developed a real-time sentiment analysis model for Indonesian YouTube Live Chats using **IndoBERTa**.
+* Achieved **91.7% accuracy**, outperforming LSTM and Naive Bayes baselines.
+* Engineered a pipeline to handle informal slang and emojis efficiently.
+
+### 📱 Social Media Mobile App
+> *Flutter · Firebase · Provider*
+* Built a cross-platform mobile app with **Dark Mode** and dynamic theming.
+* Integrated **Firebase Authentication** and **Cloud Firestore** for real-time CRUD operations (Posts, Likes, Comments).
+* Implemented scalable state management using **Provider**.
 
 ### 🍽️ Restaurant Web Application
-* **Tech Stack:** AngularJS
-* **Key Achievement:** Built a role-based access control system (Admin vs Customer) and an efficient shopping cart module for seamless menu management and ordering.
+> *Node.js · AngularJS · MongoDB*
+* Designed a full-stack system with **Role-Based Access Control (RBAC)** for Admin and Customers.
+* Utilized **Node.js** for secure RESTful APIs and **MongoDB** for flexible menu data storage.
+
+### 🏝️ Bali Resort Booking System
+> *React.js · Tailwind CSS*
+* Engineered a High-Fidelity Single Page Application (SPA) with a custom **Booking Engine**.
+* Implemented complex client-side logic for room availability and dynamic pricing simulation.
 
 ---
 
-## 📊 Development Activity
+## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GATHAN-al&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Gathan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GATHAN-al&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GATHAN-al&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gathan's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GATHAN-al&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
+</div>
+
+<br />
+
+<div align="center">
+  <p><i>Let's connect and build something amazing!</i></p>
 </div>
