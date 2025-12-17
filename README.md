@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I am a 5th-semester **Informatics Engineering student at Universitas Tarumanagara**, specializing in **Full Stack Development** and **Data Engineering**.
+I am a  **Informatics Engineering student at Universitas Tarumanagara**, specializing in **Full Stack Development** and **Data Engineering**.
 
 I bridge the gap between complex backend logic and intuitive frontend design. My recent focus involves leveraging **Python (AI/ML)** to solve data-driven problems and building scalable cross-platform applications using **Flutter** and **Node.js**.
 
