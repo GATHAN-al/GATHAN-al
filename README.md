@@ -26,7 +26,7 @@ I bridge the gap between complex backend logic and intuitive frontend design. My
 
 * 🔭 I’m currently working on: **Deep Learning Models for NLP (IndoBERTa)**
 * 🌱 I’m currently learning: **Docker & Kubernetes**
-* 🎓 Education: **Universitas Tarumanagara (GPA: 3.14/4.00)**
+* 🎓 Education: **Universitas Tarumanagara (GPA: 3.22/4.00)**
 
 ---
 
