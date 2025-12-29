@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I am a  **Informatics Engineering student at Universitas Tarumanagara**, specializing in **Full Stack Development** and **Data Engineering**.
+I am an **Informatics Engineering student at Universitas Tarumanagara**, specializing in **Full Stack Development** and **Data Engineering**.
 
 I bridge the gap between complex backend logic and intuitive frontend design. My recent focus involves leveraging **Python (AI/ML)** to solve data-driven problems and building scalable cross-platform applications using **Flutter** and **Node.js**.
 
@@ -102,5 +102,3 @@ I bridge the gap between complex backend logic and intuitive frontend design. My
 </div>
 
 <img src="https://raw.githubusercontent.com/GATHAN-al/GATHAN-al/output/snake.svg" alt="Snake animation" />
-
-###
